@@ -1,3 +1,19 @@
+![Capture](https://user-images.githubusercontent.com/109515403/185869824-3ab4f2d4-a754-42fa-a9c5-5496e726fe4b.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Real-Estate-Price-predictor
 This project builds a real estate price prediction website.
 First I have built a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
