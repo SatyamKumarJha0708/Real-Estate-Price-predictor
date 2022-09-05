@@ -29,3 +29,14 @@ Sklearn for model building
 Jupyter notebook, visual studio code and pycharm as IDE
 Python flask for http server
 HTML/CSS/Javascript for UI
+
+GLIMPSE OF DATA CLEANING:
+
+INLIER:
+
+![inlier](https://user-images.githubusercontent.com/109515403/188437716-9cc4dd5d-460f-4540-b167-d15bdccc6f18.JPG)
+
+OUTLIER:
+
+![outlier](https://user-images.githubusercontent.com/109515403/188437788-395f2755-82ce-4b62-b0ec-d66946fd0398.JPG)
+
